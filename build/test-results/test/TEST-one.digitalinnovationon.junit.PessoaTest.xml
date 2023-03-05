@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="one.digitalinnovationon.junit.PessoaTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2023-03-04T23:57:17" hostname="claudioneves-370E4K" time="1.271">
-  <properties/>
-  <testcase name="deveRetornarSeEhMaiorDeIdade()" classname="one.digitalinnovationon.junit.PessoaTest" time="1.219"/>
-  <testcase name="validarCalculoDeIdade()" classname="one.digitalinnovationon.junit.PessoaTest" time="0.044"/>
-  <testcase name="validarSeObjetoEstaNulo()" classname="one.digitalinnovationon.junit.PessoaTest" time="0.004"/>
-  <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>
