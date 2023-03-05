@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="one.digitalinnovationon.junit.ConsultarDadosDePessoaTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2023-03-05T00:39:45" hostname="claudioneves-370E4K" time="0.062">
+  <properties/>
+  <testcase name="validarDadosDeRetorno()" classname="one.digitalinnovationon.junit.ConsultarDadosDePessoaTest" time="0.053"/>
+  <testcase name="validarDadosDeRetorno2()" classname="one.digitalinnovationon.junit.ConsultarDadosDePessoaTest" time="0.007"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[mar. 04, 2023 9:39:45 PM one.digitalinnovationon.junit.BancoDeDados iniciarConexao
+INFORMAÇÕES: Iniciou conexão
+mar. 04, 2023 9:39:45 PM one.digitalinnovationon.junit.BancoDeDados insereDados
+INFORMAÇÕES: inseriu dados
+mar. 04, 2023 9:39:45 PM one.digitalinnovationon.junit.BancoDeDados removeDados
+INFORMAÇÕES: removeu dados
+mar. 04, 2023 9:39:45 PM one.digitalinnovationon.junit.BancoDeDados insereDados
+INFORMAÇÕES: inseriu dados
+mar. 04, 2023 9:39:45 PM one.digitalinnovationon.junit.BancoDeDados removeDados
+INFORMAÇÕES: removeu dados
+mar. 04, 2023 9:39:45 PM one.digitalinnovationon.junit.BancoDeDados finalizarConexao
+INFORMAÇÕES: Finalizou conexao
+]]></system-err>
+</testsuite>
